@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aureliaarnett
+- 👋 Hi, I’m Aurelia!
 - 👀 I’m interested in user experiences, streaming and subscription services, 
 - 🌱 I’m currently learning python, SQL, ELT implementations.
 - 💞️ I’m looking to collaborate on projects related to streaming and user retention, UI optimization, and sustainability efforts.
