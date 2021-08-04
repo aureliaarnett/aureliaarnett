@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aurelia!
-- 👀 I’m interested in user experiences, streaming and subscription services, and new podcasts.
+- 👀 I’m interested in user experiences, streaming and subscription services, and media and entertainment.
 - 🌱 I’m currently learning python, SQL, ELT implementations.
 - 💞️ I’m looking to collaborate on projects related to streaming services, user retention, creator platforms, UI optimization, and sustainability efforts.
 - 📓 Check out [my repository](https://github.com/aureliaarnett/DataScienceProjectPortfolio) of data science projects
